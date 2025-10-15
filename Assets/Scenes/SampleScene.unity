@@ -262,8 +262,8 @@ MonoBehaviour:
   trapPrefab: {fileID: 4172653776378924894, guid: f437f45637196e243b2117d415f83d45, type: 3}
   timeInterval: 1
   trapLifetime: 5
-  minY: -0.5
-  maxY: 1
+  minY: -3
+  maxY: 3
   spawnX: 5
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
