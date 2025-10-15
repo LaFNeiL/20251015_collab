@@ -1407,8 +1407,8 @@ SpriteRenderer:
   trapPrefab: {fileID: 4172653776378924894, guid: f437f45637196e243b2117d415f83d45, type: 3}
   timeInterval: 1
   trapLifetime: 5
-  minY: -3
-  maxY: 3
+  minY: -0.5
+  maxY: 1
   spawnX: 5
 >>>>>>> 9b059faaa3d69886bcfa2c90d4d855ab9b84e7e9
 --- !u!1660057539 &9223372036854775807

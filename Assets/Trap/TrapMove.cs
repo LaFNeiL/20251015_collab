@@ -4,12 +4,15 @@ using UnityEngine;
 
 public class TrapMove : MonoBehaviour
 {
-    [Header("트랩 이동속도")]
-    [SerializeField] private float moveSpeed = 2.0f;
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+    }
 
+    // Update is called once per frame
     void Update()
     {
-        // 왼쪽(-x)으로 일정 속도 이동
-        transform.Translate(Vector2.left * moveSpeed * Time.deltaTime);
+        
     }
 }

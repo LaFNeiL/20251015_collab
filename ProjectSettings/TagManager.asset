@@ -8,11 +8,7 @@ TagManager:
   - BackGround
 =======
   - Trap
-<<<<<<< HEAD
 >>>>>>> 9b059faaa3d69886bcfa2c90d4d855ab9b84e7e9
-=======
-  - Pipe
->>>>>>> ee3b0524ef8b06de304040701dedbcea33d0b80c
   layers:
   - Default
   - TransparentFX
@@ -25,7 +21,7 @@ TagManager:
   - 
   - 
   - trap
-  - pipe
+  - 
   - 
   - 
   - 
