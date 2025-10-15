@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
@@ -12,7 +11,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
         if (isDead) return; //이미 죽었으면 무시
 
-        if (collision.gameObject.CompareTag("Pipe") || transform.position.y < -25.0f) //파이프에 닿으면 Die메서드 호출
+        if (collision.gameObject.CompareTag("Pipe")) //파이프에 닿으면 Die메서드 호출
         {
             Die();
         }
