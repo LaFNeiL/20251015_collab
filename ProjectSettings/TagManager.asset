@@ -4,7 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
+<<<<<<< HEAD
   - BackGround
+=======
+  - Trap
+>>>>>>> 9b059faaa3d69886bcfa2c90d4d855ab9b84e7e9
   layers:
   - Default
   - TransparentFX
@@ -16,7 +20,7 @@ TagManager:
   - 
   - 
   - 
-  - 
+  - trap
   - 
   - 
   - 
